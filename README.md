@@ -1,2 +1,2 @@
 # DomagojMitrovic-ASP.NET-core-project
-This is my project task for the course Web Technologies 01
+This is my project assignment for the course Web Technologies 01
